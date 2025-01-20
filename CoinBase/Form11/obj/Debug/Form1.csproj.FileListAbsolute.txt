@@ -1,0 +1,2 @@
+D:\GithubNew\1\CoinBase-Wallet\CoinBase-Wallet\CoinBase\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\1\CoinBase-Wallet\CoinBase-Wallet\CoinBase\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
